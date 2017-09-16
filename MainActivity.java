@@ -48,5 +48,4 @@ public class MainActivity extends AppCompatActivity {
 
 private void updateFragment(){
     //Get the reference to this Activity fragmentMager
-    FragmentManager fm = get Fragment
 }
